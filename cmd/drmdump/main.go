@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/inahga/acolyte/pkg/drm"
+	"github.com/inahga/inahgo/pkg/drm"
 )
 
 func main() {
