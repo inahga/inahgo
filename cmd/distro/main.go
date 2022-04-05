@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/inahga/inahgo/pkg/distro"
+	"github.com/inahga/inahgo/distro"
 )
 
 func main() {
