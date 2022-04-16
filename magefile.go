@@ -1,3 +1,4 @@
+//go:build mage
 // +build mage
 
 package main
@@ -6,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/inahga/inahgo/pkg/distro"
+	"github.com/inahga/inahgo/distro"
 )
 
 // RunDep provides a list of runtime dependencies, based on the running OS/distribution.
